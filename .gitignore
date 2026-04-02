@@ -1,0 +1,6 @@
+data/
+saved_models/
+predictions/
+*.pth
+*.npy
+*.csv
